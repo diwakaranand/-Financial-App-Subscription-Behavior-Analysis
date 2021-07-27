@@ -1,0 +1,2 @@
+# -Financial-App-Subscription-Behavior-Analysis
+The main goal of the financial company is to sell the premium version app with low advertisement cost but they don’t know how to do it. That’s a reason they are provided the premium feature in the free version app for 24 hours to collect the customer’s behavior. The data contain the customer’s behavior and our job to find the insights from it . So, predict the customer who will take a premium version app subscription or not. predict new customer who is interested to buy the product or not.
